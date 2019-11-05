@@ -1,5 +1,4 @@
 Apfelsaft gibt Pokerkaft
-<<<<<<< HEAD
 
    /\
   /  \
@@ -23,6 +22,3 @@ Apfelsaft gibt Pokerkaft
 _)      \.___.,|     .'
 \____   )MMMMMP|   .'
      `-'       `--' hjm
-=======
-und Milch macht Müde Männer munter. JAJA
->>>>>>> 98633897cc447568cb8ef8b5b4b174d174899117
